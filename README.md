@@ -11,6 +11,7 @@ organized by **DSA patterns** for structured problem-solving.
 
 ## 🛠 Language
 - C++
+- Python
 
 ## 🎯 Goal
 - Strengthen problem-solving skills
